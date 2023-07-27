@@ -1,3 +1,4 @@
+#@woli
 # Import modules
 import random
 import string
@@ -57,3 +58,4 @@ label.pack()
 
 # Start the main loop of the window  
 root.mainloop()
+#@woli
